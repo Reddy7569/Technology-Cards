@@ -1,0 +1,63 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border-radius: 10px;
+  margin: 10px;
+  min-width: 400px;
+  max-width: 500px;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border-radius: 10px;
+  margin: 10px;
+  min-width: 400px;
+  max-width: 500px;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border-radius: 10px;
+  margin: 10px;
+  min-width: 400px;
+  max-width: 500px;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-color: white;
+  border-radius: 10px;
+  margin: 10px;
+  min-width: 400px;
+  max-width: 500px;
+}
+
+/* Write CSS code here. */
+.card_heading {
+  font-size: 20px;
+  color: #171f46;
+}
+.card_discription {
+  color: #64748b;
+}
+.images {
+  height: 60px;
+  width: 60px;
+  align-self: flex-end;
+}
